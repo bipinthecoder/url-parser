@@ -1,4 +1,4 @@
-let inputURL = "foo://example.com:8042/over/there?name=ferret#nose";
+let inputURL = "foo://example.com:8042/over/there?name=ferret#nose"; //An example test URL
 let obj = {} //declaring result object
 
 //Using URL() constructor of JS Web API
